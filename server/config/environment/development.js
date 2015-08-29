@@ -5,7 +5,7 @@
 module.exports = {
   // MongoDB connection options
   mongo: {
-    uri: 'mongodb://localhost/book-dev'
+    uri: 'mongodb://rulerpe:ddddffff@ds029803.mongolab.com:29803/booktrade'
   },
 
   seedDB: true
